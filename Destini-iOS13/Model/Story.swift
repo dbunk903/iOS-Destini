@@ -1,5 +1,5 @@
 //
-//  Sotry.swift
+//  Story.swift
 //  Destini-iOS13
 //
 
